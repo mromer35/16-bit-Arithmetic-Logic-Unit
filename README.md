@@ -6,3 +6,8 @@ opcode line, one 1-bit carry out line, and a 16-bit output line. This ALU is syn
 simulated/ tested using ModelSim. The ALU performs four operations: add, subtract, bitwise XOR, and 2’s
 complement.
 
+**OP-codes**
+00 -> 16-bit addition
+01 -> 16-bit subtraction
+10 -> 2's complement
+11 -> 16-bit-wise XOR
