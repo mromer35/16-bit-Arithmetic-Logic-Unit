@@ -7,7 +7,7 @@ simulated/ tested using ModelSim. The ALU performs four operations: add, subtrac
 complement.
 
 **OP-codes**
-00 -> 16-bit addition
-01 -> 16-bit subtraction
-10 -> 2's complement
+00 -> 16-bit addition,
+01 -> 16-bit subtraction,
+10 -> 2's complement,
 11 -> 16-bit-wise XOR
